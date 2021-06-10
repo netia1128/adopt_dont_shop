@@ -5,12 +5,12 @@ Adopt Dont Shop was a student project completed during my time at the Turing Sch
 
 ## Technologies Used
 Rails 5.2.6 with gems:  
-  -capybara  
-  -shoulda-matchers  
-  -launchy  
-  -orderly  
-  -rspec-rails  
-  -simplecov  
+* capybara  
+* shoulda-matchers  
+* launchy  
+* orderly  
+* rspec-rails  
+* simplecov  
 Ruby 2.7.2  
 PostgreSQL  
 Bootstrap  
