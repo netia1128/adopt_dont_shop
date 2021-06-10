@@ -1,7 +1,7 @@
 # Adopt, don't Shop
 
 ## Background and Description
-Adopt Dont Shop was a student project completed during my time at the Turing School of Software Design. The core of the project was to take an existing rails project and build on it to allow users to broswe pets available for adoption and submit adoption applications, and then to allow admins can review and approve those applications. The complete project requirements can be found [here](https://github.com/turingschool-examples/adopt_dont_shop). The completed project was deployed to Heroku [here](https://netia-adopt-dont-shop.herokuapp.com/pets).
+Adopt Dont Shop was a one week solo student project completed during my time at the Turing School of Software Design. The core of the project was to take an existing rails project and build on it to allow users to broswe pets available for adoption and submit adoption applications, and then to allow admins can review and approve those applications. The complete project requirements can be found [here](https://github.com/turingschool-examples/adopt_dont_shop). The completed project was deployed to Heroku [here](https://netia-adopt-dont-shop.herokuapp.com/pets).
 
 ## Technologies Used
 PostgreSQL  
