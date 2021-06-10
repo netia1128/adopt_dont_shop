@@ -4,18 +4,18 @@
 Adopt Dont Shop was a student project completed during my time at the Turing School of Software Design. The core of the project was to take an existing rails project and build on it to allow users to broswe pets available for adoption and submit adoption applications, and then to allow admins can review and approve those applications. The complete project requirements can be found [here](https://github.com/turingschool-examples/adopt_dont_shop).
 
 ## Technologies Used
-Rails 5.2.6 with gems:
-  -capybara
-  -shoulda-matchers
-  -launchy
-  -orderly
-  -rspec-rails
-  -simplecov
-Ruby 2.7.2
-PostgreSQL
-Bootstrap
-HTML5
-CSS3
+Rails 5.2.6 with gems:  
+  -capybara  
+  -shoulda-matchers  
+  -launchy  
+  -orderly  
+  -rspec-rails  
+  -simplecov  
+Ruby 2.7.2  
+PostgreSQL  
+Bootstrap  
+HTML5  
+CSS3  
 
 ## Database Relational Map
 <img width="921" alt="Screen Shot 2021-06-10 at 2 05 54 PM" src="https://user-images.githubusercontent.com/76889420/121590150-35b29a80-c9f5-11eb-91f1-48cee06b3441.png">
